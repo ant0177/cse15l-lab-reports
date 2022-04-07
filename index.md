@@ -2,9 +2,9 @@
 
 *woahhhhh slanted words*
 
-#Header 1
+# Header 1
 
-#Header 2
+## Header 2
 
 [Link](https://github.com/ant0177/cse15l-lab-reports)
 
