@@ -2,9 +2,9 @@
 
 *woahhhhh slanted words*
 
-#Big Word
+#Header 1
 
-#Smaller Big Word
+#Header 2
 
 [Link](https://github.com/ant0177/cse15l-lab-reports)
 
