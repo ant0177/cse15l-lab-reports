@@ -20,4 +20,11 @@
 3. san
 
  ---
+ 
+ `Inline code!`
+ 
+ ```
+ code block
+ afslkjlskaadjf
+ '''
 
