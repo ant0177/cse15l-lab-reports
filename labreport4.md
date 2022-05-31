@@ -60,7 +60,7 @@ Their implementation also failed snippet 3
 
 ![week7snippet3](https://user-images.githubusercontent.com/103216296/171099130-c29caf60-3e83-46f9-8821-a642ffe83b1a.png)
 
-**Link to both repositories:
+** Link to both repositories:
 
 [https://github.com/ant0177/markdown-parser]
 
