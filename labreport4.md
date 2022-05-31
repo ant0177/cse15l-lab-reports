@@ -62,9 +62,9 @@ Their implementation also failed snippet 3
 
 **Link to both repositories:**
 
-[https://github.com/ant0177/markdown-parser]
+[my repository](https://github.com/ant0177/markdown-parser)
 
-[https://github.com/nquach1515/markdown-parser-cse15l]
+[week 7 repository](https://github.com/nquach1515/markdown-parser-cse15l)
 
 
 
