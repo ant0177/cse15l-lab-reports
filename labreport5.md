@@ -14,16 +14,14 @@ I then used the commonmark website to check what the expected result should be b
 
 ![image](https://user-images.githubusercontent.com/103216296/172102211-d30aeb89-2bac-493d-a751-90dec0909d1b.png)
 
+![image](https://user-images.githubusercontent.com/103216296/172102274-6b3c6039-cb82-425f-8b44-690c44925067.png)
 
 
 I believe my implementation for test-file198 is incorrect but I'm unsure whether the given implementation is correct either because it is supposed to be a link with foo and not url. 
 
 
-
 Another test file that failed was 344 and I believe that the given implemententation is the correct one. 
 
-
-image
-
+![image](https://user-images.githubusercontent.com/103216296/172102274-6b3c6039-cb82-425f-8b44-690c44925067.png)
 
 I believe to fix these problems with my implentation is too recognize the first brackets as the link and also have an edge case to fix back ticks as it seems to be a continuing problem with my implementation. 
