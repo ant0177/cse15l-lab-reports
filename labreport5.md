@@ -2,7 +2,6 @@
 
 First, I copied the test files into my own repository along with other components to put my results into a txt file. I then used vimdiff to compare the results of both the txt files and proceeded to look for the differences from there. 
 
-
 ![image](https://user-images.githubusercontent.com/103216296/172102137-62c873de-2099-4d29-bb00-62187bad0c4c.png)
 
 ![image](https://user-images.githubusercontent.com/103216296/172102160-d5485008-f753-45d3-9213-34c0b7aad074.png)
@@ -24,4 +23,6 @@ Another test file that failed was 344 and I believe that the given implemententa
 
 ![image](https://user-images.githubusercontent.com/103216296/172102274-6b3c6039-cb82-425f-8b44-690c44925067.png)
 
-I believe to fix these problems with my implentation is too recognize the first brackets as the link and also have an edge case to fix back ticks as it seems to be a continuing problem with my implementation. 
+I believe to fix these problems with my implentation is too recognize the first brackets as the link and also have an edge case to fix back ticks as it seems to be a continuing problem with my implementation. Even in the previous lab report with the snippets, the back ticks were a problem for my implementation. 
+
+![image](https://user-images.githubusercontent.com/103216296/172102442-55cf44d4-2eb7-44b1-9bd8-2bf045de7f08.png)
